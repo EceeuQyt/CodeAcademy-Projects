@@ -1,0 +1,19 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+ 
+ 
+h1 {
+  color: purple;
+}
+ 
+ 
+p, 
+li {
+  font-size: 11px;
+}
+ 
+ 
+a {
+  text-decoration: none;
+}
